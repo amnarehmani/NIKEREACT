@@ -1,0 +1,532 @@
+
+*  {
+
+margin: 0;
+box-sizing: border-box;
+
+
+}
+
+
+
+
+
+body{
+
+    background-color: #fcf1ed;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   align-items: center;
+   
+}
+
+
+
+
+
+
+
+.nav
+
+
+{
+
+background-color: #fcf1ed;
+border-radius: 10px; 
+box-shadow: 0px 1px 1px 0px black;
+margin: auto;
+
+
+ 
+}
+
+
+nav img
+
+{
+    
+width: 8%;
+height: 10%;
+margin: auto;
+padding-left:  40px;
+
+}
+
+
+nav p 
+{
+display: inline;
+font-size:large;
+margin: auto;
+font-size: larger;
+justify-content: space-around;
+
+}
+
+nav span
+{
+
+font-family: cursive;
+color: rgb(168, 59, 95);
+
+}
+
+nav ul li
+{
+
+display: inline;
+text-decoration: none;
+text-align: center;
+padding: 30px;
+margin-left: 50px;
+font-size: larger;
+
+
+}
+
+nav>ul
+
+{
+
+display: inline;
+margin: 0 auto;
+
+}
+
+
+.container {
+
+
+display: flex;
+align-items: center;
+margin-right: 10px;
+}
+
+
+.text-container
+{
+display: block;
+padding: 0 auto;
+margin-bottom: 10px;
+
+}
+
+
+
+
+.logo
+{
+
+width: 30%;
+height:20%;
+margin-right: 20px;
+
+}
+
+.title
+{
+font-size: 50px;
+color: rgb(168, 59, 95);
+
+}
+
+
+.subtitle
+
+{
+
+font-size: 34px;
+font-weight: lighter;
+color: black;
+
+
+}
+
+
+
+.dummy-paragraph
+
+{
+ font-size: 20px;
+ color: black;
+
+
+}
+
+
+
+.buy-button
+
+{
+
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(43, 43, 152);
+ border: none;
+ border-radius: 5px;
+
+
+}
+
+.logo{
+
+width: 50%;
+margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+.casual-shoes 
+{
+ width: 100%;
+ display: flex;
+
+
+}
+
+
+
+
+
+.casual.heading
+{
+
+margin: 20px 20px 20px
+
+}
+
+
+
+
+
+
+
+.casual-container
+{
+justify-content: center;
+display: flex;
+padding: 20px;
+width: 100%;
+}
+
+
+.casual-card
+
+{
+
+background-color: white;
+border-radius: 8px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+padding: 10px;
+text-align: center;
+}
+
+.product-pic-one {
+ border-radius: 8px;
+ height: 250px;
+width: 100%;
+
+}
+
+.product-title {
+
+
+
+   margin: 5px;
+}
+
+
+.product-description{
+
+margin-bottom:5px ;
+
+
+
+}
+
+
+.product-button
+{
+display: inline-block;
+padding: 15px 30px;
+font-size: 10px;
+font-weight: bold;
+color: white;
+background-color: rgb(43, 43, 152);
+border: none;
+border-radius: 5px;
+
+
+}
+
+
+.price
+
+{
+color: #bf7171;
+margin-top: 2px;
+
+}
+ 
+
+
+.formal-heading
+ {
+
+   margin: 20px 
+
+
+ }
+
+
+.formal-shoes
+{
+width: 100%;
+display: inline-flex;
+padding: 40px;
+}
+
+
+
+.formal-container {
+
+
+   justify-content: center;
+   display: inline-block;
+   padding: 40px;
+   margin: 40px;
+   width: 100%;
+
+
+}
+
+
+.formal-card 
+
+{
+   background-color: white;
+   border-radius: 8px;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   padding: 20px;
+   text-align: center;
+   margin: 40px;
+
+
+
+}
+
+
+
+
+.product-pic-two
+{
+border-radius: 8px;
+height: 280px;
+width: 100%;
+
+}
+
+.formal-title
+{
+
+   margin: 5px;
+
+}
+.formal-description {
+
+   margin-bottom:5px ;
+
+}
+
+.formal-button 
+{
+
+   display: inline-block;
+   padding: 15px 30px;
+   font-size: 10px;
+   font-weight: bold;
+   color: white;
+   background-color: rgb(43, 43, 152);
+  border: none;
+  border-radius: 5px;
+
+
+
+}
+
+.third-container
+
+{
+ 
+background-color: white;
+border: none;
+border-radius: 10px; 
+width: 550px;
+height: 250px;
+margin: 30px;
+display: inline-block;
+padding: 20px;
+
+}
+
+.box-picture
+
+{
+ width: 20%;
+
+}
+
+
+.box-container 
+
+
+{
+align-items: center;
+margin: 20px;
+padding: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.market
+{
+width: 80%;
+padding-right: 30px;
+
+
+}
+
+.subscribe-button
+{
+
+width: 800px;
+margin: 3;
+text-align: center;
+display: inline;
+
+
+}
+
+
+
+
+
+
+
+.subscribe-button h1
+{
+
+font-size: 30px;
+margin-bottom: 20px;
+}
+
+.subscribe-button input 
+{
+
+ padding: 10px;
+ margin-bottom: 10px;
+ border: 1px solid #ccc;
+border-radius: 4px;
+font-size: 16px;
+width: 1000px;
+
+
+}
+
+
+.subscribe-button button {
+ padding: 10px;
+background-color: #4caf50;
+color: white;
+border: none;
+border-radius: 4px;
+font-size: 16px;
+display: inline-flex;
+
+}
+
+
+.color {
+
+border: none 100%;
+background-color: white;
+border-radius: 10px;
+width: 1300px;
+height: 120px;
+justify-content: center;
+}
+.bgcolor 
+
+{
+
+background-color: #f1f1f1;
+
+
+}
+
+
+.catagorgies{
+
+display:inline-flex ;
+justify-content: space-between;
+}
+
+
+.catagory {
+margin-bottom: 20px;
+display: inline-block;
+padding: 60px;
+}
+
+
+.catagory h2
+{
+ margin: 10px;
+
+
+}
+
+.catagory ul{
+
+padding: 0;
+list-style: none;
+display: inline;
+
+}
+
+.catagory ul li{
+
+margin-bottom: 5px;
+
+
+}
+.catagory a{
+
+
+text-decoration: none;
+color: #333;
+}
+
+.last {
+
+background-color: white;
+width: 1200px;
+height: 250px;
+
+}
